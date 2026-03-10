@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470632454360",
+    "project_id": "test20-43834",
+    "storage_bucket": "test20-43834.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470632454360:android:dc2d051787fb5b317c9fad",
+        "android_client_info": {
+          "package_name": "com.isha.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnt0G9WiTVxUeFKIGuCwX3cV-8Kc-E-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470632454360:android:59bf6600401a60917c9fad",
+        "android_client_info": {
+          "package_name": "com.test20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnt0G9WiTVxUeFKIGuCwX3cV-8Kc-E-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.testing
+package com.isha.chatapp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
